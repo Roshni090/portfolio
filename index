@@ -95,8 +95,8 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Pranesh S</h1>
+            <img src="C:\Users\Admin\Downloads\PHOTO.jpg" alt="Your Profile Picture" class="profile-picture">
+            <h1>ROSHNI A</h1>
             <p>Am Mechanical Engineer</p>
         </div>
     </header>
@@ -169,14 +169,14 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="resume.pdf" target="_blank" class="download-button">Download CV</a>
+            <a href="file:///C:/Users/Admin/Downloads/_Resume1.pdf" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
     </section>
 
     <footer>
-        <p>&copy; 2025 Pranesh S</p>
+        <p>&copy; 2025 ROSHNI A</p>
     </footer>
 
     <script>
